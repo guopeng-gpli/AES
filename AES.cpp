@@ -1,4 +1,4 @@
-//AES中的多次式运算没搞懂https://blog.csdn.net/lisonglisonglisong/article/details/41909813 
+//https://blog.csdn.net/lisonglisonglisong/article/details/41909813 
 #include <iostream>
 #include <bitset>
 #include <string>
